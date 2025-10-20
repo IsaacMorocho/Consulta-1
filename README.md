@@ -117,6 +117,8 @@ Y ejecutamos nuestra app.
 
 ## Resultado
 
+![Evidencia del apk](./evidencia.gif)
+
 
 
 
